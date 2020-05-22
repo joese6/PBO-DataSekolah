@@ -7,7 +7,7 @@ Setelah menyelesaikan tugas Membuat Program Dengan Konsep Berbasis Objek, maka p
   - Menerapkan overloading pada class
 
 # Screenshot
-
+https://github.com/joese6/PBO-DataSekolah/issues/1#issue-622973891
 
 # Build with :
 - [Netbeans](https://netbeans.org/)
